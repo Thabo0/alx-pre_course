@@ -1,2 +1,1 @@
-My first readme
-Updated
+This was written at github.com
